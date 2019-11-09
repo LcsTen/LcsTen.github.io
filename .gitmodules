@@ -1,0 +1,3 @@
+[submodule "em_generateur"]
+	path = em_generateur
+	url = https://github.com/LcsTen/em_generateur.git
